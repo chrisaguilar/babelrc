@@ -1,6 +1,6 @@
 {
   "name": "@chrisaguilar/babelrc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My Personal Babel Configuration",
   "main": ".babelrc",
   "license": "MIT",
